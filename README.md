@@ -23,7 +23,8 @@ We plan on migrating the items and instructions into a wiki format. However, the
 
 We share our recording software, which includes 2 components:
 1. [Control Server](https://github.com/KumarLabJax/JABS-recording-control-server), which runs on a raspberry pi 3 (or newer) that acts as a web portal
-2. [Recording Devices](https://github.com/KumarLabJax/JABS-device-client), which runs on ever recording device.
+2. [Control UI](https://github.com/KumarLabJax/JABS-recording-ui), which is the UI used for the control server
+3. [Recording Devices](https://github.com/KumarLabJax/JABS-device-client), which runs on ever recording device.
 
 ## Pose Estimation
 
