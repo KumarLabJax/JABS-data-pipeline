@@ -12,10 +12,10 @@ Note: This pipeline is still a work in progress. Some links may not yet be publi
 We plan on migrating the items and instructions into a wiki format. However, they are currently available in the following format:
 1. [Parts List](JABS&#32;Acquisition&#32;Parts&#32;List.csv)
 2. [General Build Components](DesignFiles/)
-   * [Component Schematics](https://github.com/Jarek-JAX/Open_Field_build_files)
-   * [3D Printed Components](https://github.com/Jarek-JAX/Open_Field_3D_printing_files)
-   * [Assembly Components](https://github.com/Jarek-JAX/Open_Field_3D_printing_files)
-   * [CNC Programs](https://github.com/Jarek-JAX/Open_Field_3D_printing_files)
+   * [Component Schematics](DesignFiles/Component Schematics/)
+   * [3D Printed Components](DesignFiles/3D Printed Components/)
+   * [Assembly Components](DesignFiles/Assembly Components/)
+   * [CNC Programs](DesignFiles/CNC Programs/)
    * [3D Model of assembled arena](DesignFiles/JABS_hardware_arena.stl.zip)
 3. [Hardware Setup](Multi-day&#32;setup&#32;PowerPoint&#32;V3.pptx)
 

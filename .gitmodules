@@ -1,0 +1,12 @@
+[submodule "DesignFiles/Component Schematics"]
+	path = DesignFiles/Component Schematics
+	url = https://github.com/Jarek-JAX/Open_Field_build_files.git
+[submodule "DesignFiles/3D Printed Components"]
+	path = DesignFiles/3D Printed Components
+	url = https://github.com/Jarek-JAX/Open_Field_3D_printing_files.git
+[submodule "DesignFiles/Assembly Components"]
+	path = DesignFiles/Assembly Components
+	url = https://github.com/Jarek-JAX/Open_field_misc_assemblies_etc..git
+[submodule "DesignFiles/CNC Programs"]
+	path = DesignFiles/CNC Programs
+	url = https://github.com/Jarek-JAX/CNC_Program_Layouts.git
