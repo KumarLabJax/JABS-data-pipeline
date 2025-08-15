@@ -28,14 +28,22 @@ We share our recording software, which includes 2 components:
 
 ## Pose Estimation
 
-We predict mouse poses using the following codebase: [link](https://github.com/KumarLabJax/deep-hrnet-mouse).
+We predict mouse poses using the following codebase: [link](https://github.com/KumarLabJax/mouse-tracking-runtime).
+
 To find our trained model for single mouse pose, please review the license and find it here: [link](https://zenodo.org/record/5708437)
+
 Our multi-mouse pose model will be released in the future.
 
 # Behavior Annotation and Classifier Training
 
 For classifying behavior, we developed the following software: [link](https://github.com/KumarLabJax/JABS-behavior-classifier)
 
+Example project folders are located at: [link](https://zenodo.org/uploads/16697332)
+
 # Behavior Characterization and Data Integration
 
 For sharing models and integrating genetics, we've developed the following software: [link](https://github.com/KumarLabJax/JabsWebserver)
+
+Our strain survey open field dataset is available at: [link](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/SAPNJG) [DOI link](https://doi.org/10.7910/DVN/SAPNJG)
+
+Our BxD open field dataset is avalable at: [link](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/RQYI04) [DOI link](https://doi.org/10.7910/DVN/RQYI04)
