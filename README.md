@@ -12,10 +12,10 @@ Note: This pipeline is still a work in progress. Some links may not yet be publi
 We plan on migrating the items and instructions into a wiki format. However, they are currently available in the following format:
 1. [Parts List](JABS&#32;Acquisition&#32;Parts&#32;List.csv)
 2. [General Build Components](DesignFiles/)
-   * [Component Schematics](https://github.com/Jarek-JAX/Open_Field_build_files)
-   * [3D Printed Components](https://github.com/Jarek-JAX/Open_Field_3D_printing_files)
-   * [Assembly Components](https://github.com/Jarek-JAX/Open_Field_3D_printing_files)
-   * [CNC Programs](https://github.com/Jarek-JAX/Open_Field_3D_printing_files)
+   * [Component Schematics](DesignFiles/Component Schematics/)
+   * [3D Printed Components](DesignFiles/3D Printed Components/)
+   * [Assembly Components](DesignFiles/Assembly Components/)
+   * [CNC Programs](DesignFiles/CNC Programs/)
    * [3D Model of assembled arena](DesignFiles/JABS_hardware_arena.stl.zip)
 3. [Hardware Setup](Multi-day&#32;setup&#32;PowerPoint&#32;V3.pptx)
 
@@ -28,14 +28,22 @@ We share our recording software, which includes 2 components:
 
 ## Pose Estimation
 
-We predict mouse poses using the following codebase: [link](https://github.com/KumarLabJax/deep-hrnet-mouse).
+We predict mouse poses using the following codebase: [link](https://github.com/KumarLabJax/mouse-tracking-runtime).
+
 To find our trained model for single mouse pose, please review the license and find it here: [link](https://zenodo.org/record/5708437)
+
 Our multi-mouse pose model will be released in the future.
 
 # Behavior Annotation and Classifier Training
 
 For classifying behavior, we developed the following software: [link](https://github.com/KumarLabJax/JABS-behavior-classifier)
 
+Example project folders are located at: [link](https://zenodo.org/uploads/16697332)
+
 # Behavior Characterization and Data Integration
 
 For sharing models and integrating genetics, we've developed the following software: [link](https://github.com/KumarLabJax/JabsWebserver)
+
+Our strain survey open field dataset is available at: [link](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/SAPNJG) [DOI link](https://doi.org/10.7910/DVN/SAPNJG)
+
+Our BxD open field dataset is avalable at: [link](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/RQYI04) [DOI link](https://doi.org/10.7910/DVN/RQYI04)
